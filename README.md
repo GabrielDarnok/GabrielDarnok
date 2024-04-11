@@ -15,7 +15,7 @@
 
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/grimmgraphicdesign/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/gabriel-henrique-54049a215/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
 ### Main skills:
