@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fff92&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+Username+is+Gabriel+Darnok;Welcome+to+my+profile:%29)](https://git.io/typing-svg)
 
 <div align="center">
-
-![GitHub Stats](https://img.shields.io/badge/Stats-View%20My%20Profile-4fff92?style=for-the-badge)
-![Languages](https://img.shields.io/badge/Top%20Languages-Click%20Here-4fff92?style=for-the-badge)
-
+  <img
+    src="https://streak-stats.demolab.com?user=GabrielDarnok&theme=dark&hide_border=true&ring=4fff92&fire=4fff92&currStreakLabel=4fff92"
+    height="180"
+/>
 </div>
 
 
