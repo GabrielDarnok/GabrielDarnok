@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=GabrielDarnok&show_icons=true&count_private=true&hide_border=true&title_color=4fff92&icon_color=4fff92&text_color=4fff92&bg_color=0d1117"
+  src="https://github-readme-stats.vercel.app/api?username=GabrielDarnok&show_icons=true&count_private=true&hide_border=true&title_color=4fff92&icon_color=4fff92&text_color=4fff92&bg_color=0d1117](https://img.shields.io/badge/GitHub%20Stats-Loading-blue?style=flat-square"
   height="180"
 />
 
