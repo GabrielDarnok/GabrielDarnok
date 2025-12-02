@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fff92&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+Username+is+Gabriel+Darnok;Welcome+to+my+profile:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielDarnok/GabrielDarnok/output/github-snake-dark.svg" />
-</div>
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielDarnok&bg_color=181f29color=4fff92&line=4fff92&point=4fff92&area=true&hide_border=true)](https://github.com/GabrielDarnok/github-readme-activity-graph)
 
 <p align="center">
