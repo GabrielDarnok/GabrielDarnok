@@ -4,17 +4,8 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    height="180"
-    src="https://github-readme-stats-git-master-ruiqimao.vercel.app/api?username=GabrielDarnok&show_icons=true&count_private=true&hide_border=true&title_color=4fff92&icon_color=4fff92&text_color=4fff92&bg_color=0d1117"
-  />
-
-  <!-- Top Languages -->
-  <img
-    height="180"
-    src="https://github-readme-stats-git-master-ruiqimao.vercel.app/api/top-langs/?username=GabrielDarnok&layout=compact&hide_border=true&title_color=4fff92&text_color=4fff92&bg_color=0d1117"
-  />
+![GitHub Stats](https://img.shields.io/badge/Stats-View%20My%20Profile-4fff92?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Top%20Languages-Click%20Here-4fff92?style=for-the-badge)
 
 </div>
 
