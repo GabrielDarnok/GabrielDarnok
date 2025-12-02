@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fff92&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+Username+is+Gabriel+Darnok;Welcome+to+my+profile:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielDarnok&bg_color=181f29color=4fff92&line=4fff92&point=4fff92&area=true&hide_border=true)](https://github.com/GabrielDarnok/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielDarnok&show_icons=true&count_private=true&hide_border=true&title_color=4fff92&icon_color=4fff92&text_color=4fff92&bg_color=0d1117" alt="Gabriel Darnok github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDarnok&layout=compact&hide_border=true&title_color=4fff92&text_color=4fff92&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielDarnok&bg_color=181f29color=4fff92&line=4fff92&point=4fff92&area=true&hide_border=true)](https://github.com/GabrielDarnok/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielDarnok&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
