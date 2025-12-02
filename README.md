@@ -3,10 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fff92&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+Username+is+Gabriel+Darnok;Welcome+to+my+profile:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=GabrielDarnok&theme=dark&hide_border=true&ring=4fff92&fire=4fff92&currStreakLabel=4fff92"
-    height="180"
-/>
+  <img src="https://raw.githubusercontent.com/GabrielDarnok/GabrielDarnok/output/github-snake-dark.svg" />
 </div>
 
 
