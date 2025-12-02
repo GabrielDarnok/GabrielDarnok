@@ -4,15 +4,17 @@
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=GabrielDarnok&show_icons=true&count_private=true&hide_border=true&title_color=4fff92&icon_color=4fff92&text_color=4fff92&bg_color=0d1117](https://img.shields.io/badge/GitHub%20Stats-Loading-blue?style=flat-square"
-  height="180"
-/>
+  <!-- GitHub Stats -->
+  <img
+    height="180"
+    src="https://github-readme-stats-git-master-ruiqimao.vercel.app/api?username=GabrielDarnok&show_icons=true&count_private=true&hide_border=true&title_color=4fff92&icon_color=4fff92&text_color=4fff92&bg_color=0d1117"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDarnok&layout=compact&hide_border=true&title_color=4fff92&text_color=4fff92&bg_color=0d1117"
-  height="180"
-/>
+  <!-- Top Languages -->
+  <img
+    height="180"
+    src="https://github-readme-stats-git-master-ruiqimao.vercel.app/api/top-langs/?username=GabrielDarnok&layout=compact&hide_border=true&title_color=4fff92&text_color=4fff92&bg_color=0d1117"
+  />
 
 </div>
 
