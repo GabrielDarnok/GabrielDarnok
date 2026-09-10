@@ -28,6 +28,6 @@ Monitors network traffic pulled from a Zabbix API and applies Isolation Forest t
 
 ### 📍 Currently
 
-Network Analyst (Mid-level) — UPX, Campinas/SP, Brazil
+Network Analyst — UPX, Campinas/SP, Brazil
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-54049a215/)
