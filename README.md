@@ -14,8 +14,8 @@ Currently building skills in **offensive security** (Web Security / Bug Bounty) 
 
 ### 🔧 Featured projects
 
-**[SupportGuide](LINK_DO_REPO)**
-Internal tool for network infrastructure operations, integrating with network devices via SSH (Paramiko), with a Flask/PostgreSQL backend deployed behind Nginx + Gunicorn.
+**[Network Anomaly Detection](https://github.com/GabrielDarnok/anomaly_detection)**
+Monitors network traffic pulled from a Zabbix API and applies Isolation Forest to detect anomalies in real time, with Slack alerts and automatically generated traffic graphs.
 
 **[NetFlow/sFlow Analysis](LINK_DO_REPO)**
 Platform for ingesting and analyzing Flow data (NetFlow/sFlow), focused on identifying traffic patterns and, eventually, network anomalies.
@@ -28,6 +28,6 @@ Platform for ingesting and analyzing Flow data (NetFlow/sFlow), focused on ident
 
 ### 📍 Currently
 
-Network Analyst — UPX, Campinas/SP, Brazil
+Network Analyst (Mid-level) — UPX, Campinas/SP, Brazil
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-54049a215/)
