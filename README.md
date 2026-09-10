@@ -28,6 +28,6 @@ Platform for ingesting and analyzing Flow data (NetFlow/sFlow), focused on ident
 
 ### 📍 Currently
 
-Network Analyst (Mid-level) — UPX, Campinas/SP, Brazil
+Network Analyst — UPX, Campinas/SP, Brazil
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-54049a215/)
